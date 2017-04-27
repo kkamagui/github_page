@@ -1,0 +1,27 @@
+[
+    {
+       "name":"IRON-HID",
+       "url":"https://github.com/kkamagui/IRON-HID",
+       "desc":"Create your own bad USB! It was introduced at HITBSecConf 2017."
+    },
+    {
+       "name":"Shadow-Box",
+       "url":"https://github.com/kkamagui/shadow-box-for-x86",
+       "desc":"The lightweight hypervisor-based kernel protector. It was introduced at Black Hat Asia 2017, Black Hat Asia Arsenal 2017, and HITBSecConf 2017."
+    },
+    {
+       "name":"Linux Kernel ACPICA Bug Patch Commit",
+       "url":"https://github.com/acpica/acpica/commit/a23325b2",
+       "desc":"It was a patch to fix operand cache leak bug." 
+    },
+    {
+       "name":"TPM2.0-TSS Bug Patch Commit",
+       "url":"https://github.com/01org/TPM2.0-TSS/pull/90/commits/e196c7e1007dcb1f9b6acbbb0b890e4c7bd7cdd5",
+       "desc":"It was a patch to fix loaded handles bug." 
+    },
+    {
+       "name":"MINT64 OS",
+       "url":"https://github.com/kkamagui/mint64os",
+       "desc":"64bit Multicore Operating System Development. It was introduced at 64-bit multi-core OS principles and structure, Vol1 & Vol2." 
+    }
+]

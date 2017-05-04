@@ -1,5 +1,11 @@
 [
     {
+       "name":"Detailed Project Informations",
+       "url":"/2017/04/27/who-am-i",
+       "desc":"If you want to see detailed project informations below, please visit the 'Who Am I' post."
+    },
+
+    {
        "name":"IRON-HID",
        "url":"https://github.com/kkamagui/IRON-HID",
        "desc":"Create your own bad USB! It was introduced at HITBSecConf 2017."

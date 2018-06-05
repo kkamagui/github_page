@@ -6,22 +6,28 @@ I'm an OS developer, firmware developer, hypervisor developer, and security rese
 
 ---
 ## [Papers, Presentations, and Patents](#paper)
-I was a speaker at the below conferences:
- - ["IRON-HID: Create Your Own Bad USB", HITBSecConf 2016](http://conference.hitb.org/hitbsecconf2016ams/sessions/iron-hid-create-your-own-bad-usb-device/) 
-  - Publications: [Paper](http://conference.hitb.org/hitbsecconf2016ams/wp-content/uploads/2015/11/Seunghun-Han-IRON-HID-Create-Your-Own-Bad-USB-Device.pdf), [Presentation](http://conference.hitb.org/hitbsecconf2016ams/wp-content/uploads/2015/11/D1T2-Seunghun-Han-Create-Your-Own-Bad-USB-Device.pdf), [Patent](https://goo.gl/atPoBf), [Forbes article](https://www.forbes.com/sites/thomasbrewster/2016/07/13/powershock-mobile-charger-hacks-android-phones/#289b27ae3448)
-  - Videos: [IRON-HID Demo 1](https://youtu.be/5-a4Nao9gtA), [IRON-HID Demo 2](https://youtu.be/rkTEXyGt8bw)
- - ["Shadow-Box: The Practical and Omnipotent Sandbox", HITBSecConf 2017](http://conference.hitb.org/hitbsecconf2017ams/sessions/shadowbox-the-practical-and-omnipotent-sandbox/)
-  - Publications: [Paper](http://conference.hitb.org/hitbsecconf2017ams/wp-content/uploads/2015/11/Shadow-box-Whitepaper.pdf), [Presentation](http://conference.hitb.org/hitbsecconf2017ams/materials/D1T2%20-%20Seunghun%20Han%20-%20Shadow-Box%20-%20The%20Practical%20and%20Omnipotent%20Sandbox.pdf)
-  - Videos: [Shadow-box Demo 1](https://youtu.be/3_cFDVHWCXA), [Shadow-box Demo 2](https://youtu.be/s7iZYg4vP4E)
- - ["Myth and Truth about Hypervisor-Based Kernel Protector: The Reason Why You Need Shadow-Box", Black Hat Asia 2017](https://www.blackhat.com/asia-17/briefings.html#myth-and-truth-about-hypervisor-based-kernel-protector-the-reason-why-you-need-shadow-box)
-  - Publications: [Paper](https://www.blackhat.com/docs/asia-17/materials/asia-17-Han-Myth-And-Truth-about-Hypervisor-Based-Kernel-Protector-The-Reason-Why-You-Need-Shadowbox-wp.pdf), [Presentation](https://www.blackhat.com/docs/asia-17/materials/asia-17-Han-Myth-And-Truth-about-Hypervisor-Based-Kernel-Protector-The-Reason-Why-You-Need-Shadowbox.pdf), [DailySecu article](http://www.dailysecu.com/?mod=news&act=articleView&idxno=19370)
-  - Videos: [Shadow-box Demo 1](https://youtu.be/3_cFDVHWCXA), [Shadow-box Demo 2](https://youtu.be/s7iZYg4vP4E)
+I was an author and a speaker at the below conferences:
+ - ["A Bad Dream: Subverting Trusted Platform Module while You Are Sleeping", USENIX Security 2018](https://www.usenix.org/conference/usenixsecurity18/presentation/han)
+  - Publications: [Paper](https://www.usenix.org/conference/usenixsecurity18/presentation/han)
  - ["I Don't Want to Sleep Tonight: Subverting Intel TXT with S3 Sleep", Black Hat Asia 2018](https://www.blackhat.com/asia-18/briefings.html#i-dont-want-to-sleep-tonight-subverting-intel-txt-with-s3-sleep)
   - Publications: [Presentation](https://www.blackhat.com/docs/asia-18/asia-18-Seunghun-I_Dont_Want_to_Sleep_Tonight_Subverting_Intel_TXT_with_S3_Sleep.pdf), [DarkReading](https://www.darkreading.com/threat-intelligence/10-cant-miss-talks-at-black-hat-asia/d/d-id/1331111?piddl_msgorder=asc&amp;f_src=darkreading_editorspicks_rss_latest&image_number=2)
   - Videos: [Intel TXT Vulnerability Demo](https://youtu.be/n4pJrTbassU)
  - ["Shadow-Box v2: The Practical and Omnipotent Sandbox for ARM", Black Hat Asia 2018](https://www.blackhat.com/asia-18/briefings.html#shadow-box-v2-the-practical-and-omnipotent-sandbox-for-arm)
   - Publications: [Presentation](https://www.blackhat.com/docs/asia-18/asia-18-Seunghun-Shadow-Box_v2_The_Practical_and_Omnipotent_Sandbox_for_ARM.pdf)
   - Videos: [Shadow-Box v2 Demo](https://youtu.be/mhS3ujH6yyA)
+  - Project Link: [Shadow-Box for ARM](https://github.com/kkamagui/shadow-box-for-arm)
+ - ["Myth and Truth about Hypervisor-Based Kernel Protector: The Reason Why You Need Shadow-Box", Black Hat Asia 2017](https://www.blackhat.com/asia-17/briefings.html#myth-and-truth-about-hypervisor-based-kernel-protector-the-reason-why-you-need-shadow-box)
+  - Publications: [Paper](https://www.blackhat.com/docs/asia-17/materials/asia-17-Han-Myth-And-Truth-about-Hypervisor-Based-Kernel-Protector-The-Reason-Why-You-Need-Shadowbox-wp.pdf), [Presentation](https://www.blackhat.com/docs/asia-17/materials/asia-17-Han-Myth-And-Truth-about-Hypervisor-Based-Kernel-Protector-The-Reason-Why-You-Need-Shadowbox.pdf), [DailySecu article](http://www.dailysecu.com/?mod=news&act=articleView&idxno=19370)
+  - Videos: [Shadow-box Demo 1](https://youtu.be/3_cFDVHWCXA), [Shadow-box Demo 2](https://youtu.be/s7iZYg4vP4E)
+  - Project Link: Same as the upper link.
+ - ["Shadow-Box: The Practical and Omnipotent Sandbox", HITBSecConf 2017](http://conference.hitb.org/hitbsecconf2017ams/sessions/shadowbox-the-practical-and-omnipotent-sandbox/)
+  - Publications: [Paper](http://conference.hitb.org/hitbsecconf2017ams/wp-content/uploads/2015/11/Shadow-box-Whitepaper.pdf), [Presentation](http://conference.hitb.org/hitbsecconf2017ams/materials/D1T2%20-%20Seunghun%20Han%20-%20Shadow-Box%20-%20The%20Practical%20and%20Omnipotent%20Sandbox.pdf)
+  - Videos: [Shadow-box Demo 1](https://youtu.be/3_cFDVHWCXA), [Shadow-box Demo 2](https://youtu.be/s7iZYg4vP4E)
+  - Project Link: [Shadow-Box for x86](https://github.com/kkamagui/shadow-box-for-x86)
+ - ["IRON-HID: Create Your Own Bad USB", HITBSecConf 2016](http://conference.hitb.org/hitbsecconf2016ams/sessions/iron-hid-create-your-own-bad-usb-device/) 
+  - Publications: [Paper](http://conference.hitb.org/hitbsecconf2016ams/wp-content/uploads/2015/11/Seunghun-Han-IRON-HID-Create-Your-Own-Bad-USB-Device.pdf), [Presentation](http://conference.hitb.org/hitbsecconf2016ams/wp-content/uploads/2015/11/D1T2-Seunghun-Han-Create-Your-Own-Bad-USB-Device.pdf), [Patent](https://goo.gl/atPoBf), [Forbes article](https://www.forbes.com/sites/thomasbrewster/2016/07/13/powershock-mobile-charger-hacks-android-phones/#289b27ae3448)
+  - Project Link: [IRON-HID](https://github.com/kkamagui/IRON-HID)
+  - Videos: [IRON-HID Demo 1](https://youtu.be/5-a4Nao9gtA), [IRON-HID Demo 2](https://youtu.be/rkTEXyGt8bw)
 ---
 
 ## [Common Vulnerabilities and Exposures (CVEs)](#cve)

@@ -2,22 +2,31 @@
 title: Who Am I?
 date: 2017-04-27
 ---
-I'm an OS developer, firmware developer, hypervisor developer, and security researcher.
+I'm Seunghun Han (a.k.a kkamagui) at National Security Research Institute of South Korea.
+
+I'm a senior security researcher, a firmware developer, a hypervisor developer, and an operating system developer.
 
 ---
 ## [Papers, Presentations, and Patents](#paper)
 I was an author and a speaker at the below conferences:
  - ["A Bad Dream: Subverting Trusted Platform Module while You Are Sleeping", USENIX Security 2018](https://www.usenix.org/conference/usenixsecurity18/presentation/han)
-  - Publications: [Paper](https://www.usenix.org/conference/usenixsecurity18/presentation/han)
+  - Publications: [Paper](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-han.pdf), [Presentation](https://www.usenix.org/sites/default/files/conference/protected-files/security18_slides_han.pdf)
+  - Videos: [USENIX Security Talk](https://youtu.be/tO870zz2SHg)
  - ["I Don't Want to Sleep Tonight: Subverting Intel TXT with S3 Sleep", Black Hat Asia 2018](https://www.blackhat.com/asia-18/briefings.html#i-dont-want-to-sleep-tonight-subverting-intel-txt-with-s3-sleep)
-  - Publications: [Presentation](https://www.blackhat.com/docs/asia-18/asia-18-Seunghun-I_Dont_Want_to_Sleep_Tonight_Subverting_Intel_TXT_with_S3_Sleep.pdf), [DarkReading](https://www.darkreading.com/threat-intelligence/10-cant-miss-talks-at-black-hat-asia/d/d-id/1331111?piddl_msgorder=asc&amp;f_src=darkreading_editorspicks_rss_latest&image_number=2)
+  - Publications: [Presentation](https://www.blackhat.com/docs/asia-18/asia-18-Seunghun-I_Dont_Want_to_Sleep_Tonight_Subverting_Intel_TXT_with_S3_Sleep.pdf), [(Article) DarkReading](https://www.darkreading.com/threat-intelligence/10-cant-miss-talks-at-black-hat-asia/d/d-id/1331111?piddl_msgorder=asc&amp;f_src=darkreading_editorspicks_rss_latest&image_number=2), [(Article) Security News](https://www.boannews.com/media/view.asp?idx=68140)
   - Videos: [Intel TXT Vulnerability Demo](https://youtu.be/n4pJrTbassU)
  - ["Shadow-Box v2: The Practical and Omnipotent Sandbox for ARM", Black Hat Asia 2018](https://www.blackhat.com/asia-18/briefings.html#shadow-box-v2-the-practical-and-omnipotent-sandbox-for-arm)
   - Publications: [Presentation](https://www.blackhat.com/docs/asia-18/asia-18-Seunghun-Shadow-Box_v2_The_Practical_and_Omnipotent_Sandbox_for_ARM.pdf)
   - Videos: [Shadow-Box v2 Demo](https://youtu.be/mhS3ujH6yyA)
   - Project Link: [Shadow-Box for ARM](https://github.com/kkamagui/shadow-box-for-arm)
+ - ["The Last Man Standing: The Only Practical, Lightweight and Hypervisor-Based Kernel Protector Struggling with the Real World Alone", beVX 2018](https://www.beyondsecurity.com/bevxcon/speakers.html#SeunghunHan)
+  - Publications: [Presentation](https://github.com/kkamagui/papers/blob/master/bevx-2018/presentation.pdf)
+  - Videos: [Gatekeeper Demo](https://youtu.be/gjpxeKlzA9s)
+  - Project Link: [Gatekeeper with Shadow-box](https://github.com/kkamagui/shadow-box-for-x86/tree/gatekeeper)
+ - ["(Invited Talk) A Bad Dream: Subverting Trusted Platform Module While You Are Sleeping", KIMCHICON 2018](http://kimchicon.org/2018/speaker.html#Session3)
+  - Publications: [Presentation](https://www.usenix.org/sites/default/files/conference/protected-files/security18_slides_han.pdf)
  - ["Myth and Truth about Hypervisor-Based Kernel Protector: The Reason Why You Need Shadow-Box", Black Hat Asia 2017](https://www.blackhat.com/asia-17/briefings.html#myth-and-truth-about-hypervisor-based-kernel-protector-the-reason-why-you-need-shadow-box)
-  - Publications: [Paper](https://www.blackhat.com/docs/asia-17/materials/asia-17-Han-Myth-And-Truth-about-Hypervisor-Based-Kernel-Protector-The-Reason-Why-You-Need-Shadowbox-wp.pdf), [Presentation](https://www.blackhat.com/docs/asia-17/materials/asia-17-Han-Myth-And-Truth-about-Hypervisor-Based-Kernel-Protector-The-Reason-Why-You-Need-Shadowbox.pdf), [DailySecu article](http://www.dailysecu.com/?mod=news&act=articleView&idxno=19370)
+  - Publications: [Paper](https://www.blackhat.com/docs/asia-17/materials/asia-17-Han-Myth-And-Truth-about-Hypervisor-Based-Kernel-Protector-The-Reason-Why-You-Need-Shadowbox-wp.pdf), [Presentation](https://www.blackhat.com/docs/asia-17/materials/asia-17-Han-Myth-And-Truth-about-Hypervisor-Based-Kernel-Protector-The-Reason-Why-You-Need-Shadowbox.pdf), [(Article) DailySecu](http://www.dailysecu.com/?mod=news&act=articleView&idxno=19370)
   - Videos: [Shadow-box Demo 1](https://youtu.be/3_cFDVHWCXA), [Shadow-box Demo 2](https://youtu.be/s7iZYg4vP4E)
   - Project Link: Same as the upper link.
  - ["Shadow-Box: The Practical and Omnipotent Sandbox", HITBSecConf 2017](http://conference.hitb.org/hitbsecconf2017ams/sessions/shadowbox-the-practical-and-omnipotent-sandbox/)
@@ -25,7 +34,7 @@ I was an author and a speaker at the below conferences:
   - Videos: [Shadow-box Demo 1](https://youtu.be/3_cFDVHWCXA), [Shadow-box Demo 2](https://youtu.be/s7iZYg4vP4E)
   - Project Link: [Shadow-Box for x86](https://github.com/kkamagui/shadow-box-for-x86)
  - ["IRON-HID: Create Your Own Bad USB", HITBSecConf 2016](http://conference.hitb.org/hitbsecconf2016ams/sessions/iron-hid-create-your-own-bad-usb-device/) 
-  - Publications: [Paper](http://conference.hitb.org/hitbsecconf2016ams/wp-content/uploads/2015/11/Seunghun-Han-IRON-HID-Create-Your-Own-Bad-USB-Device.pdf), [Presentation](http://conference.hitb.org/hitbsecconf2016ams/wp-content/uploads/2015/11/D1T2-Seunghun-Han-Create-Your-Own-Bad-USB-Device.pdf), [Patent](https://goo.gl/atPoBf), [Forbes article](https://www.forbes.com/sites/thomasbrewster/2016/07/13/powershock-mobile-charger-hacks-android-phones/#289b27ae3448)
+  - Publications: [Paper](http://conference.hitb.org/hitbsecconf2016ams/wp-content/uploads/2015/11/Seunghun-Han-IRON-HID-Create-Your-Own-Bad-USB-Device.pdf), [Presentation](http://conference.hitb.org/hitbsecconf2016ams/wp-content/uploads/2015/11/D1T2-Seunghun-Han-Create-Your-Own-Bad-USB-Device.pdf), [Patent](https://goo.gl/atPoBf), [(Article) Forbes](https://www.forbes.com/sites/thomasbrewster/2016/07/13/powershock-mobile-charger-hacks-android-phones/#289b27ae3448)
   - Project Link: [IRON-HID](https://github.com/kkamagui/IRON-HID)
   - Videos: [IRON-HID Demo 1](https://youtu.be/5-a4Nao9gtA), [IRON-HID Demo 2](https://youtu.be/rkTEXyGt8bw)
 ---
@@ -58,6 +67,6 @@ I contributed patches to open-source projects such as Linux kernel, Trusted Boot
 
 ---
 ## [Books](#book)
-I was also authored the below works: 
+I was an author of below books: 
  - 64-bit multi-core OS principles and structure, volume 1 (ISBN-13: 978-8979148367). [Amazon Store](https://www.amazon.co.uk/64-bit-multi-core-principles-structure-Korean/dp/8979148364) [Yes24 Store](http://www.yes24.com/24/goods/5270659?scode=032&OzSrank=1)
  - 64-bit multi-core OS principles and structure, volume 2 (ISBN-13: 978-8979148374). [Amazon Store](https://www.amazon.co.uk/64-bit-multi-core-principles-structure-Korean/dp/8979148372) [Yes24 Store](http://www.yes24.com/24/goods/5270667?scode=032&OzSrank=2)

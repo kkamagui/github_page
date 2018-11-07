@@ -10,7 +10,7 @@ I'm a senior security researcher, a firmware developer, a hypervisor developer, 
 ## [Papers, Presentations, and Patents](#paper)
 I was an author and a speaker at the below conferences:
  - ["A Bad Dream: Subverting Trusted Platform Module while You Are Sleeping", USENIX Security 2018](https://www.usenix.org/conference/usenixsecurity18/presentation/han)
-  - Publications: [Paper](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-han.pdf), [Presentation](https://www.usenix.org/sites/default/files/conference/protected-files/security18_slides_han.pdf)
+  - Publications: [Paper](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-han.pdf), [Presentation](https://www.usenix.org/sites/default/files/conference/protected-files/security18_slides_han.pdf), [(Article) BleepingComputer](https://www.bleepingcomputer.com/news/security/researchers-detail-two-new-attacks-on-tpm-chips/)
   - Videos: [USENIX Security Talk](https://youtu.be/tO870zz2SHg)
  - ["I Don't Want to Sleep Tonight: Subverting Intel TXT with S3 Sleep", Black Hat Asia 2018](https://www.blackhat.com/asia-18/briefings.html#i-dont-want-to-sleep-tonight-subverting-intel-txt-with-s3-sleep)
   - Publications: [Presentation](https://www.blackhat.com/docs/asia-18/asia-18-Seunghun-I_Dont_Want_to_Sleep_Tonight_Subverting_Intel_TXT_with_S3_Sleep.pdf), [(Article) DarkReading](https://www.darkreading.com/threat-intelligence/10-cant-miss-talks-at-black-hat-asia/d/d-id/1331111?piddl_msgorder=asc&amp;f_src=darkreading_editorspicks_rss_latest&image_number=2), [(Article) Security News](https://www.boannews.com/media/view.asp?idx=68140)

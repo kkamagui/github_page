@@ -2,13 +2,12 @@
     {
        "name":"Detailed Papers and Projects Information",
        "url":"/2017/04/27/who-am-i",
-       "desc":"If you want to see detailed project informations below, please visit the 'Who Am I' post."
+       "desc":"If you want to see detailed project information below, please visit the 'Who Am I' post."
     },
-
     {
-       "name":"[Project] IRON-HID",
-       "url":"https://github.com/kkamagui/IRON-HID",
-       "desc":"Create your own bad USB! It was introduced at HITBSecConf 2017."
+       "name":"[Project] MINT64 OS",
+       "url":"https://github.com/kkamagui/mint64os",
+       "desc":"64bit multicore operating system development from scratch. The building process was published in two books, 64-bit multi-core OS principles and structure, Vol1 & Vol2." 
     },
     {
        "name":"[Project] Shadow-Box v1 for x86",
@@ -21,9 +20,9 @@
        "desc":"The ARM TrustZone-based kernel protector for ARM. It was introduced at Black Hat Asia 2018."
     },
     {
-       "name":"[Personal Project] MINT64 OS",
-       "url":"https://github.com/kkamagui/mint64os",
-       "desc":"64bit Multicore Operating System Development. It was introduced at 64-bit multi-core OS principles and structure, Vol1 & Vol2." 
+       "name":"[Project] IRON-HID",
+       "url":"https://github.com/kkamagui/IRON-HID",
+       "desc":"Create your own bad USB! It was introduced at HITBSecConf 2017."
     },
     {
        "name":"[Patches and CVEs] Contributions and Security Patches",

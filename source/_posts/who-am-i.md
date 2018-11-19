@@ -2,9 +2,9 @@
 title: Who Am I?
 date: 2017-04-27
 ---
-I'm Seunghun Han (a.k.a kkamagui) at National Security Research Institute of South Korea. I was an eMMC firmware developer at Samsung. Currently, I'm a senior security researcher, a firmware developer, a hypervisor developer, and an operating system developer.
+I'm Seunghun Han (a.k.a kkamagui) at National Security Research Institute of South Korea. I was an eMMC firmware developer at Samsung. Currently, I'm a senior security researcher, a hypervisor developer, and an operating system developer.
 
-I have been doing many kinds of research from security analysis to hypervisor and OS development and publishing books and papers. They are listed below.
+I have been doing various kinds of research from security analysis to hypervisor and OS development. I published two books and several papers about them. They are listed below.
 
 ---
 ## [Books](#book)

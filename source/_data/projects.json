@@ -10,9 +10,14 @@
        "desc":"64bit multicore operating system development from scratch. The building process was published in two books, 64-bit multi-core OS principles and structure, Vol1 & Vol2." 
     },
     {
-       "name":"[Project] Shadow-Box v1 for x86",
+       "name":"[Project] Napper for Checking a TPM Vulnerability, CVE-2018-6622",
+       "url":"https://github.com/kkamagui/napper-for-tpm",
+       "desc":"TPM vulnerability checking tool for CVE-2018-6622 related to S3 sleep. It will be published at Black Hat Asia 2019."
+    },
+    {
+       "name":"[Project] Shadow-Box v1 for x86 and Gatekeeper",
        "url":"https://github.com/kkamagui/shadow-box-for-x86",
-       "desc":"The lightweight hypervisor-based kernel protector for x86. It was introduced at Black Hat Asia 2017, Black Hat Asia Arsenal 2017, and HITBSecConf 2017."
+       "desc":"The lightweight hypervisor-based kernel protector for x86. It was introduced at Black Hat Asia 2017, Black Hat Asia Arsenal 2017, HITBSecConf 2017, and beVX 2018."
     },
     {
        "name":"[Project] Shadow-Box v2 for ARM",

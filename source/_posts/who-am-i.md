@@ -2,11 +2,13 @@
 title: Who Am I?
 date: 2017-04-27
 ---
+(Updated 2019-01-07)
+
 I'm Seunghun Han (a.k.a kkamagui) at National Security Research Institute of South Korea. I was an eMMC firmware developer at Samsung. Currently, I'm a senior security researcher, a hypervisor developer, and an operating system developer.  
 
-I'm also a member of the Influencer Program at Black Hat Asia and can distribute discount code for the Black Hat Asia. If you are going to the conference, feel free to contact me via [Twitter: @kkamagui1](https://twitter.com/kkamagui1), [Facebook: Seunghun Han](https://www.facebook.com/seunghoon.han.3701), and [LinkedIn: Seunghun Han](https://www.linkedin.com/in/seunghun-han-717bb5b0/).
+I'm also a Review Board member of Black Hat Asia and KimchiCon. If you have any question about those conferences, feel free to contact me via [Twitter: @kkamagui1](https://twitter.com/kkamagui1), [Facebook: Seunghun Han](https://www.facebook.com/seunghoon.han.3701), and [LinkedIn: Seunghun Han](https://www.linkedin.com/in/seunghun-han-717bb5b0/).
 
-I have been doing various kinds of research from security analysis to hypervisor and OS development. I published two books and several papers about them. They are listed below.
+I have been doing various kinds of research from vulnerability analysis to hypervisor and OS development. I published two books and several papers about them. They are listed below.
 
 ---
 ## [Books](#book)
@@ -17,9 +19,16 @@ I was an author of books below:
 ---
 ## [Papers, Presentations, and Patents](#paper)
 I was an author and a speaker at several conferences below:
+ - ["BitLeaker: Subverting BitLocker with One Vulnerability", Black Hat Europe 2019](https://www.blackhat.com/eu-19/briefings/schedule/index.html#bitleaker-subverting-bitlocker-with-one-vulnerability-17245)
+  - Publication: [Presentation](https://i.blackhat.com/eu-19/Thursday/eu-19-Han-BitLeaker-Subverting-BitLocker-With-One-Vulnerability.pdf), [(Article) Version2](https://www.version2.dk/artikel/glemt-koden-din-bitlocker-maaske-kan-bitleaker-hjaelpe-1089646)
+  - Videos: [BitLeaker Demo](https://youtu.be/H6uAkLC_8kQ)
+
+
  - ["Finally, I Can Sleep Tonight: Catching Sleep Mode Vulnerabilities of the TPM with the Napper", Black Hat Asia 2019](https://www.blackhat.com/asia-19/briefings/schedule/index.html#finally-i-can-sleep-tonight-catching-sleep-mode-vulnerabilities-of-the-tpm-with-the-napper-13588)
-  - Publication: It will be published soon after the Black Hat Asia 2019.
- 
+  - Publication: [Presentation](https://i.blackhat.com/asia-19/Thu-March-28/bh-asia-Seunghun-Finally-I-Can-Sleep-Tonight-Catching-Sleep-Mode-Vulnerabilities-of-the-TPM-with-the-Napper.pdf)
+  - Videos: [Napper Demo](https://youtu.be/K3ewNJuRzRM)
+
+
  - ["A Bad Dream: Subverting Trusted Platform Module while You Are Sleeping", USENIX Security 2018](https://www.usenix.org/conference/usenixsecurity18/presentation/han)
   - Publications: [Paper](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-han.pdf), [Presentation](https://www.usenix.org/sites/default/files/conference/protected-files/security18_slides_han.pdf), [(Article) BleepingComputer](https://www.bleepingcomputer.com/news/security/researchers-detail-two-new-attacks-on-tpm-chips/)
   - Videos: [USENIX Security Talk](https://youtu.be/tO870zz2SHg)
@@ -88,6 +97,8 @@ I found security vulnerabilities in many kinds of software such as the Linux ker
 
 
  - [CVE-2018-7995](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-7995): ** DISPUTED ** Race condition in the store\_int\_with\_restart() function in arch/x86/kernel/cpu/mcheck/mce.c in the Linux kernel through 4.15.7 allows local users to cause a denial of service (panic) by leveraging root access to write to the check\_interval file in a /sys/devices/system/machinecheck/machinecheck\<cpu number\> directory. NOTE: a third party has indicated that this report is not security relevant.
+
+- [CVE-2019-unknown](): Not yet published.
 
 
 ## [Open-Source Contributions](#contribution)

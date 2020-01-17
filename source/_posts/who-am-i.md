@@ -4,11 +4,11 @@ date: 2017-04-27
 ---
 (Updated 2019-01-07)
 
-I'm Seunghun Han (a.k.a kkamagui) at National Security Research Institute of South Korea. I was an eMMC firmware developer at Samsung. Currently, I'm a senior security researcher, a hypervisor developer, and an operating system developer.  
+I'm Seunghun Han (a.k.a kkamagui) and a senior security researcher at the Affiliated Institute of ETRI. I also was an eMMC firmware developer at Samsung Electronics. My research interests are the root of trust, firmware, hypervisor, and kernel security. So I have made my own hypervisor and contributed various patches to the Linux kernel and TPM-based security software.
 
-I'm also a Review Board member of Black Hat Asia and KimchiCon. If you have any question about those conferences, feel free to contact me via [Twitter: @kkamagui1](https://twitter.com/kkamagui1), [Facebook: Seunghun Han](https://www.facebook.com/seunghoon.han.3701), and [LinkedIn: Seunghun Han](https://www.linkedin.com/in/seunghun-han-717bb5b0/).
+I'm also a Review Board member of Black Hat Asia and KimchiCon. If you have any questions about those conferences, feel free to contact me via [Twitter: @kkamagui1](https://twitter.com/kkamagui1), [Facebook: Seunghun Han](https://www.facebook.com/seunghoon.han.3701), and [LinkedIn: Seunghun Han](https://www.linkedin.com/in/seunghun-han-717bb5b0/).
 
-I have been doing various kinds of research from vulnerability analysis to hypervisor and OS development. I published two books and several papers about them. They are listed below.
+I published two books and presented several papers. They are listed below.
 
 ---
 ## [Books](#book)
@@ -27,6 +27,10 @@ I was an author and a speaker at several conferences below:
  - ["Finally, I Can Sleep Tonight: Catching Sleep Mode Vulnerabilities of the TPM with the Napper", Black Hat Asia 2019](https://www.blackhat.com/asia-19/briefings/schedule/index.html#finally-i-can-sleep-tonight-catching-sleep-mode-vulnerabilities-of-the-tpm-with-the-napper-13588)
   - Publication: [Presentation](https://i.blackhat.com/asia-19/Thu-March-28/bh-asia-Seunghun-Finally-I-Can-Sleep-Tonight-Catching-Sleep-Mode-Vulnerabilities-of-the-TPM-with-the-Napper.pdf)
   - Videos: [Napper Demo](https://youtu.be/K3ewNJuRzRM)
+
+
+ - ["(Invated Talk) Betrayal of Reputation: Trusting the Untrustable Hardware and Software with Reputation", Microsoft BlueHat Shanghai 2019](https://www.microsoft.com/china/bluehatshanghai/2019/#Agenda)
+  - Publication: [Presentation](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE37iXj)
 
 
  - ["A Bad Dream: Subverting Trusted Platform Module while You Are Sleeping", USENIX Security 2018](https://www.usenix.org/conference/usenixsecurity18/presentation/han)

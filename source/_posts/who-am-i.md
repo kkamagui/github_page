@@ -2,11 +2,13 @@
 title: Who Am I?
 date: 2017-04-27
 ---
-(Updated 2019-01-07)
+(Updated 2023-08-06)
 
 I'm Seunghun Han (a.k.a kkamagui) and a senior security researcher at the Affiliated Institute of ETRI. I also was an eMMC firmware developer at Samsung Electronics. My research interests are the root of trust, firmware, hypervisor, and kernel security. So I have made my own hypervisor and contributed various patches to the Linux kernel and TPM-based security software.
 
 I'm also a Review Board member of Black Hat Asia and KimchiCon. If you have any questions about those conferences, feel free to contact me via [Twitter: @kkamagui1](https://twitter.com/kkamagui1), [Facebook: Seunghun Han](https://www.facebook.com/seunghoon.han.3701), and [LinkedIn: Seunghun Han](https://www.linkedin.com/in/seunghun-han-717bb5b0/).
+
+Recently, I became a Debian Linux Maintainer. I have maintaining [hardware and firmware-releated packages](https://qa.debian.org/developer.php?login=kkamagui%40gmail.com). 
 
 I published two books and presented several papers. They are listed below.
 
@@ -19,6 +21,16 @@ I was an author of books below:
 ---
 ## [Papers, Presentations, and Patents](#paper)
 I was an author and a speaker at several conferences below:
+ - ["Alcatraz: A Practical Hypervisor Sandbox to Prevent Escapes from the KVM/QEMU and KVM-Based MicroVMs", Black Hat USA 2021](https://www.blackhat.com/us-21/briefings/schedule/#alcatraz-a-practical-hypervisor-sandbox-to-prevent-escapes-from-the-kvmqemu-and-kvm-based-microvms-22875)
+  - Publication: [Presentation](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Han-Alcatraz-A-Practical-Hypervisor-Sandbox-To-Prevent-Escapes-From-The-KVMQEMU-And-KVM-Based-MicroVMs.pdf) 
+  - Videos: [Alcatraz Demo](https://youtu.be/ZGFJO7YaELw)
+
+
+ - ["(Invited Talk) BitLeaker: Subverting BitLocker with One Vulnerability", Black Hat Asia 2020](https://www.blackhat.com/asia-20/briefings/schedule/index.html#bitleaker-subverting-bitlocker-with-one-vulnerability-19413)
+  - Publication: [Presentation](https://i.blackhat.com/asia-20/Thursday/asia-20-Han-BitLeaker-Subverting-BitLocker-With-One-Vulnerability.pdf)
+  - Videos: [BitLeaker Demo](https://youtu.be/H6uAkLC_8kQ)
+
+
  - ["BitLeaker: Subverting BitLocker with One Vulnerability", Black Hat Europe 2019](https://www.blackhat.com/eu-19/briefings/schedule/index.html#bitleaker-subverting-bitlocker-with-one-vulnerability-17245)
   - Publication: [Presentation](https://i.blackhat.com/eu-19/Thursday/eu-19-Han-BitLeaker-Subverting-BitLocker-With-One-Vulnerability.pdf), [(Article) Version2](https://www.version2.dk/artikel/glemt-koden-din-bitlocker-maaske-kan-bitleaker-hjaelpe-1089646)
   - Videos: [BitLeaker Demo](https://youtu.be/H6uAkLC_8kQ)
@@ -29,7 +41,7 @@ I was an author and a speaker at several conferences below:
   - Videos: [Napper Demo](https://youtu.be/K3ewNJuRzRM)
 
 
- - ["(Invated Talk) Betrayal of Reputation: Trusting the Untrustable Hardware and Software with Reputation", Microsoft BlueHat Shanghai 2019](https://www.microsoft.com/china/bluehatshanghai/2019/#Agenda)
+ - ["(Invited Talk) Betrayal of Reputation: Trusting the Untrustable Hardware and Software with Reputation", Microsoft BlueHat Shanghai 2019](https://www.microsoft.com/china/bluehatshanghai/2019/#Agenda)
   - Publication: [Presentation](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE37iXj)
 
 
@@ -102,7 +114,7 @@ I found security vulnerabilities in many kinds of software such as the Linux ker
 
  - [CVE-2018-7995](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-7995): ** DISPUTED ** Race condition in the store\_int\_with\_restart() function in arch/x86/kernel/cpu/mcheck/mce.c in the Linux kernel through 4.15.7 allows local users to cause a denial of service (panic) by leveraging root access to write to the check\_interval file in a /sys/devices/system/machinecheck/machinecheck\<cpu number\> directory. NOTE: a third party has indicated that this report is not security relevant.
 
-- [CVE-2019-unknown](): Not yet published.
+- [CVE-2020-0526](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-0526): Improper input validation in firmware for Intel(R) NUC may allow a privileged user to potentially enable escalation of privilege via local access. The list of affected products is provided in intel-sa-00343: https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00343.html
 
 
 ## [Open-Source Contributions](#contribution)
